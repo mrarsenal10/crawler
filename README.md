@@ -34,4 +34,3 @@ To run the project, you can use the provided Makefile. Here are the available co
 - `make crawler`: Start the crawler service.
 - `make parse`: Start the parse service and save the parsed HTML to MongoDB.
 
-To use these commands, open a terminal and navigate to the project directory. Then, run the desired command using the `make` command. For example, to start the project, run:
