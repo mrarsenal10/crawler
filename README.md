@@ -9,7 +9,7 @@ To get started with this project, follow the steps below:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/tonytran/crawler.git
+   git clone https://github.com/mrarsenal10/crawler.git
    ```
 
 2. Navigate to the project directory:
